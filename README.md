@@ -98,7 +98,6 @@ This project is open source and available under the MIT License.
 ## 🙏 Credits
 
 - Character data sourced from [Dark Netflix Fandom Wiki](https://dark-netflix.fandom.com/)
-- Built by [Saitama Solutions](https://www.saitama.solutions)
 - Inspired by the brilliant Netflix series "Dark"
 
 ## ⚠️ Spoiler Warning
